@@ -17,7 +17,7 @@ export default {
   components: {
     // HelloWorld
     Title,
-    Hero,
+    Hero
   },
 };
 </script>

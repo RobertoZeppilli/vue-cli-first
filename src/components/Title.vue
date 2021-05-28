@@ -10,7 +10,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 
 h1 {
     display: flex;
@@ -18,4 +18,5 @@ h1 {
     align-items: center;
     height: 20vh;
 }
+
 </style>

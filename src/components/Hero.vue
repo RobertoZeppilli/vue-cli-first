@@ -15,7 +15,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .hero {
   display: flex;
   height: 80vh;
@@ -46,8 +46,8 @@ export default {
   color: #fff;
 }
 .hero-text p {
-    font-size: 1.3rem;
-    color: #fff;
-    font-style: italic;
+  font-size: 1.3rem;
+  color: #fff;
+  font-style: italic;
 }
 </style>
